@@ -25,5 +25,7 @@ Feel free to tweak the post by adding a specific repo link or personal flair! Le
 
 
 Navigate to the Project Directory
+Run
 >npm install
+Run to localhost the application build
 >npm run dev
